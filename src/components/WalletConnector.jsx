@@ -133,7 +133,7 @@ export default function WalletConnector() {
         </button>
       </div>
 
-      <div className="animate-fadeIn bg-white/10 dark:bg-black/30 backdrop-blur-xl border border-yellow-400/30 rounded-3xl p-8 shadow-2xl max-w-md w-full text-center">
+      <div className="animate-fadeIn mt-20 bg-white/10 dark:bg-black/30 backdrop-blur-xl border border-yellow-400/30 rounded-3xl p-8 shadow-2xl max-w-md w-full text-center">
         <h1 className="text-2xl font-semibold mb-2 text-yellow-400">GoldenCity Wallet Connector</h1>
         <p className="text-sm mb-6 text-gray-400 dark:text-gray-500">
           Your gateway to smart property investment

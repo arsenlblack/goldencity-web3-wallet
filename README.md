@@ -1,4 +1,4 @@
-# 🪙 GoldenCity Web3 Wallet Connector
+# GoldenCity Web3 Wallet Connector
 
 **GoldenCity** is a modern **real estate investment platform** that merges traditional property investing with cryptocurrency payments.
 This project implements a **MetaMask wallet integration module** with seamless UX, elegant theming, and responsive design — built as part of a technical evaluation for the GoldenCity Web3 platform.
@@ -21,15 +21,15 @@ It’s designed with both technical robustness and user delight in mind — simp
 
 ## 🧠 Key Features
 
-✅ **Auto Theme Detection** — syncs with system preferences (Light/Dark)
-✅ **MetaMask Detection** — notifies users if the extension isn’t installed
-✅ **Wallet Connection** — secure connection flow with visual feedback
-✅ **Account + Network Events** — real-time updates on wallet and network
-✅ **Balance Display** — retrieves ETH balance via RPC
-✅ **Persistent State** — restores connection across sessions
-✅ **Responsive UI** — adaptive layout for mobile, tablet, and desktop
-✅ **Animated Theme Switcher** — iOS-style toggle with fluid transitions
-✅ **Built-in Notifications** — user feedback with `react-hot-toast`
+✅ **Auto Theme Detection** — syncs with system preferences (Light/Dark)  
+✅ **MetaMask Detection** — notifies users if the extension isn’t installed  
+✅ **Wallet Connection** — secure connection flow with visual feedback  
+✅ **Account + Network Events** — real-time updates on wallet and network  
+✅ **Balance Display** — retrieves ETH balance via RPC  
+✅ **Persistent State** — restores connection across sessions  
+✅ **Responsive UI** — adaptive layout for mobile, tablet, and desktop  
+✅ **Animated Theme Switcher** — iOS-style toggle with fluid transitions  
+✅ **Built-in Notifications** — user feedback with `react-hot-toast`  
 
 ---
 
@@ -62,7 +62,7 @@ npm install
 npm run dev
 ```
 
-Open in browser: **[http://localhost:5173](http://localhost:5173)**
+Open in browser: **[http://localhost:3000](http://localhost:3000)**
 
 ---
 
