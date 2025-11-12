@@ -66,9 +66,9 @@ Open in browser: **[http://localhost:3000](http://localhost:3000)**
 
 ---
 
-## 💡 Demo Highlights
+## 🎥 Demo
 
-🎥 **Demo video (available upon request)**
+**[See demo](https://drive.google.com/file/d/1epldPCU1b8Bt1gXICdq3m4TpYJYdC4Hb/view)** 
 The demo shows:
 
 * Wallet connection and balance retrieval
